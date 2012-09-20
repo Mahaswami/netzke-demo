@@ -1,4 +1,4 @@
-This is the source-code for http://demo.netzke.org - the [Netzke](http://netzke.org) live-demo.
+aThis is the source-code for http://demo.netzke.org - the [Netzke](http://netzke.org) live-demo.
 
 ## Installation (to run it locally)
 
